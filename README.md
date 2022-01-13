@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Prankushjain
-- 👀 I’m interested in coding 
+- 👋 Hi, I’m Prankushjain 
 - 🌱 I’m currently doing B.tech
 
 <!---
